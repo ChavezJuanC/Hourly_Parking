@@ -14,7 +14,7 @@ El cálculo del total a pagar se divide en dos partes: **horas completas** e **i
 
 | Tiempo de Estancia | Desglose del Cobro | Total a Pagar |
 | :--- | :--- | :--- |
-| **00:10** | Tarifa base ($20) + 1 fracción ($5) | **$25.00** |
+| **01:10** | Tarifa base ($20) + 1 fracción ($5) | **$25.00** |
 | **01:00** | Tarifa base ($20) + 0 fracciones | **$20.00** |
 | **01:15** | Tarifa base ($20) + 1 fracción ($5) | **$25.00** |
 | **02:30** | Tarifa base ($20) + 1 hr extra ($20) + 2 fracciones ($10) | **$50.00** |
