@@ -30,5 +30,5 @@ No necesitas instalar librerías externas. El script utiliza únicamente módulo
 ### Ejecución
 
 1. Clona el repositorio o descarga el archivo
-   git clone https://github.com/ChavezJuanC/Hourly_Parking.git
+   "git clone https://github.com/ChavezJuanC/Hourly_Parking.git"
   
