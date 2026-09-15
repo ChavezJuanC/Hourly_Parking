@@ -31,6 +31,5 @@ No necesitas instalar librerías externas. El script utiliza únicamente módulo
 
 1. Clona el repositorio o descarga el archivo `.py`:
    ```bash
-   git clone [https://github.com/tu-usuario/parking-calculator.git](https://github.com/tu-usuario/parking-calculator.git)
-   cd parking-calculator
+   https://github.com/ChavezJuanC/Hourly_Parking.git
   
